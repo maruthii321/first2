@@ -1,4 +1,2 @@
 # first2
-this is my second repositiry
-
-author maruthi
+this is my second repositiry author - maruthi
